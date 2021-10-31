@@ -10,13 +10,18 @@ Install numpy through numpy
 pip install numpy
 ```
 
-## Compilation
+## Compilation & Run
 
 
 ```python
 python Main.py
 ```
 
+## Demonstration
+
+Taking the lights position, vehicle position, and K matrix as input, where K matrix affects how sensitive is the vehicle to the received light intensity from the sensor. \
+The Instantaneous Center of Curvature is plotted in green, and Vehicle path is plotted in black.\
+![demo](demo.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
