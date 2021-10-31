@@ -17,8 +17,7 @@ pip install numpy
 python Main.py
 ```
 
-![alt text](https://github.com/ArthurChenCoding/Braitenberg-Vehicles
-/tim.png?raw=true)
+![alt text](https://github.com/ArthurChenCoding/Braitenberg-Vehicles/tim.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
