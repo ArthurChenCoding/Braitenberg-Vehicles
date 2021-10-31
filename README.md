@@ -18,7 +18,7 @@ python Main.py
 ```
 
 ![alt text](https://github.com/ArthurChenCoding/Braitenberg-Vehicles
-/TIM.png?raw=true)
+/tim.png?raw=true)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
